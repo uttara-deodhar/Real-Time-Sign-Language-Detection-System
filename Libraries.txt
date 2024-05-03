@@ -1,0 +1,26 @@
+
+pip install opencv-python
+pip install keras
+pip install tensorflow
+pip install scikit-learn
+pip install pyttsx3
+pip install pickle
+
+
+pip install django
+pip install django djangorestframework
+pip install django-cors-headers 
+
+
+
+django-admin startproject backend
+django-admin startapp detection
+
+
+npm init --y
+npm i webpack wevpack-cli --save-dev
+npm i @babel/core babel-loader @babel/preset-env @babel/preset-react --save dev
+npm i react react-dom --save-dev
+npm install @babel/plugin-proposal-class-properties
+npm install react-router-dom
+npm install clean-webpack-plugin --save-dev
